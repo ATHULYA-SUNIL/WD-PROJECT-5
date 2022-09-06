@@ -1,0 +1,34 @@
+@media (max-width:1440px){
+    .section-blog .white-box .item {
+        width: 94%;
+        margin-left: 6%;
+    }
+    .section-start .inn-cir {
+        margin: -439px 368px;
+    }
+    .section-start h1 {
+        line-height: normal;
+        font-size: 48px;
+        margin: 12px -20px;
+        text-align: center;
+    }
+    .section-start .span-1-of-3:nth-of-type(1) .rowise:nth-of-type(2) .inn-cir {
+        margin: -158px 368px;
+    }
+    .section-start .box label {
+        margin-left: 152px;
+    }
+    .section-start .span-1-of-3:nth-of-type(3) h1{
+        margin: 12px 0px;
+    }
+}
+
+
+@media (max-width:1024px){
+    .pic1,
+    .pic2,
+    .pic3,
+    .pic4{
+        display: none;
+    }
+}
